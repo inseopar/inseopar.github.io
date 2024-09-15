@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inseopar.github.io/sitemap.html.gz
+Sitemap: https://inseopar.github.io/app/sitemap.html.gz
+Sitemap: https://inseopar.github.io/assets/sitemap.html.gz
+Sitemap: https://inseopar.github.io/css/sitemap.html.gz
+Sitemap: https://inseopar.github.io/includes/sitemap.html.gz
+Sitemap: https://inseopar.github.io/item/sitemap.html.gz
+Sitemap: https://inseopar.github.io/src/sitemap.html.gz
